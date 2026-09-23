@@ -1,0 +1,6 @@
+.env
+.env.*
+!.env.example
+private/
+credentials*.json
+.DS_Store

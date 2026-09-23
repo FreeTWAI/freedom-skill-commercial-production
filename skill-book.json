@@ -1,0 +1,11 @@
+{
+  "format": "freedom.skill-book/v1",
+  "id": "freedom-skill-commercial-production",
+  "title": "廣告攝影與影片製作入門手冊",
+  "version": "0.1.0",
+  "guild_key": "guild_commercial_production",
+  "entry": "SKILL.md",
+  "execution": "manual_or_member_owned_assistant",
+  "repository": "https://github.com/FreeTWAI-AI/freedom-skill-commercial-production",
+  "license": "NOASSERTION"
+}
